@@ -1,7 +1,7 @@
 # Employee-Tracker
 
 ## Description
-
+Employee Tracker allows the user to keep track of the employees and the roles that they are assigned. This allows the user to keep everything organized
 ## User Story
 
 ```md
